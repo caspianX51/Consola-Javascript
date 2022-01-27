@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(248, 236, 166);
+}
+
+.titulocentral {
+  display: flex;
+  justify-content: center;
+  font-family: "Comfortaa", cursive;
+  font-size: 30px;
+  font-weight: 700;
+  padding-top: 30px;
+}
+
+.printcontainer {
+  display: flex;
+  padding-top: 50px;
+  padding-bottom: 200px;
+  justify-content: center;
+  align-items: center;
+}
+
+.print {
+  width: 1000px;
+  height: 500px;
+  background-color:  #272822;
+  border: 9px;
+  border-style:  double;
+  border-color: rgb(56, 197, 216);  
+}
